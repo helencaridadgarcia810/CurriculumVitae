@@ -43,10 +43,10 @@
   * Also know  **CSS3**, **HTML5**, **Angular**, **React**, **Kotlin**, **Groovy**.
 
 * **Other Technologies**
-  * **git:** I use git everyday. I could not be able to work without it. Version control is very important to me and I believe in [this](http://chris.beams.io/posts/git-commit/) way to do commits.
+  * **git:** I use git everyday. I could not be able to work without it. Version control is very important to me and I believe in [this](http://chris.beams.io/posts/git-commit/) way of doing commits.
   * **Docker:** Docker reduces the gap between the developer environment and the staging and production scenario. I've used Docker to test and deploy software and it's a technology I use almost every day. I'm also familiar with docker-compose.
   * **Jenkins:** Jenkins gives you the possibility of making Continuous Integration of almost any project, which ensures the quality of it in every single build, also allows to deliver Continuous Deployment to the final user which is essential for faster feedback and agile development. I can not start a project without setting a Jenkins configuration.
-  * **Testing:** Every application might have bugs, but testing reduces the time spent trying to find them, as well as a major quality insurance. Whether it is `unit tests` or `e2e tests`, I like to have at least an 80% code coverage.
+  * **Testing:** Every application might have bugs, but testing reduces the time spent trying to find them, as well as a major quality insurance. Whether it is `unit tests` or `e2e tests`, I like to have at least an 80% of code coverage.
 
 ## Other Details
 
